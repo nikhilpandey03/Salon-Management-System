@@ -1,6 +1,6 @@
 const barbers = [
-  { barbername: "ASMIT", email: "barber1@example.com", password: "ASMITabc" },
-  { barbername: "HARSHVARDHAR", email: "barber2@example.com", password: "HARSHVARDHANabc" }
+  { barbername: "Nikhil", email: "barber1@example.com", password: "Nikabc" },
+  { barbername: "Pandey", email: "barber2@example.com", password: "Pandeyabc" }
 ];
 
 // Function to add a new user (simulating storage)
