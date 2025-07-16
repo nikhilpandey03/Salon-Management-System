@@ -849,10 +849,10 @@ function CustomerPage() {
             <div>
               <h3 className="text-lg font-bold text-white">Contact Info</h3>
               <address className="mt-4 not-italic">
-                <p>Tech Market, IIT Kharagpur </p>
+                <p>Bargadwa, Gorakhpur </p>
                 <p className="mt-2 flex items-center gap-2">
                   <FaPhone className="h-4 w-4" />
-                  <span>(+91) 9335891448 </span>
+                  <span>(+91) 8004678989 </span>
                 </p>
               </address>
             </div>
